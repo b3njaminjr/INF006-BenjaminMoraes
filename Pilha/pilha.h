@@ -1,5 +1,5 @@
-#ifndef PILHA_H_INCLUDED
-#define PILHA_H_INCLUDED
+#ifndef PILHA_H
+#define PILHA_H
 
 typedef struct no {
     int valor;
